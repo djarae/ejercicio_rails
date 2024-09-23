@@ -1,5 +1,10 @@
 # Ejercicio_rails(Ultima Actualizacion 8-SEPT-24)
 # NOTA: TODO se ejecuta como ADMIN ,tanto instalaciones como programas
+# 8 sept 24: quedè en minuto 17 del video :
+articleshttps://www.youtube.com/watch?v=YA0WGSTZ1P4
+
+# cors: debo instalar la gema racks, aparece al principio del vbideo ,luego descomento codigo
+https://www.youtube.com/watch?v=sh4WrNGDvQM
 
 # Pasos para instalar rails:
 # Instalar Ruby y luego Rails:
